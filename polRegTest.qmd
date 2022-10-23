@@ -2,7 +2,7 @@
 title: "polyRegression"
 format: html
 editor: visual
-author: Arun & Naina
+author: Arun & Nina
 ---
 
 ## Quarto
